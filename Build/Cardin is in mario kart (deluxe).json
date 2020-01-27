@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Cardin is in mario kart",
+"dataUrl": "Cardin is in mario kart (deluxe).data.unityweb",
+"wasmCodeUrl": "Cardin is in mario kart (deluxe).wasm.code.unityweb",
+"wasmFrameworkUrl": "Cardin is in mario kart (deluxe).wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
